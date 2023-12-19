@@ -1,0 +1,3 @@
+set x 1000;
+inc x;
+out x;
